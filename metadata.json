@@ -1,0 +1,7 @@
+{
+  "name": "Smart Wardrobe",
+  "description": "移动端优先的 AI 智能衣橱管家。具备 Gemini Vision 自动分类衣物、基于天气和场合的智能穿搭推荐以及衣橱数据统计功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
